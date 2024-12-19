@@ -54,7 +54,7 @@ public class Main {
         boolean b = list2.addAll(list);
 
         System.out.println(b);
-//        System.out.println(list2.size());
+        System.out.println(list2.size());
 
 
 
