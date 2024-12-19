@@ -26,8 +26,6 @@ public class Runner {
         Reporting reporting1 = reporting;
         reporting1.report(12);
 
-        Accountant accountant2 = new Accountant();
-        director1.forse(accountant2,9);
 
 
     }
